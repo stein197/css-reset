@@ -1,0 +1,19 @@
+{
+  "name": "@stein197/css-reset",
+  "version": "1.0.0",
+  "description": "CSS reset styles",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stein197/css-reset.git"
+  },
+  "keywords": [
+    "css",
+    "reset"
+  ],
+  "author": "Nail' Gafarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stein197/css-reset/issues"
+  },
+  "homepage": "https://github.com/stein197/css-reset#readme"
+}

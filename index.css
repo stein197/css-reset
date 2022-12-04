@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+	background-repeat: no-repeat;
+	background-position: center;
+	transform-origin: center;
+	vertical-align: middle;
+	flex-wrap: wrap;
+}
+
+*::before,
+*::after {
+	content: none;
+}
+
+button {
+	background: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
