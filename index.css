@@ -11,6 +11,7 @@
 	transform-origin: center;
 	vertical-align: middle;
 	flex-wrap: wrap;
+	outline: none;
 }
 
 *::before,
